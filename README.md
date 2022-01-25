@@ -9,6 +9,8 @@ Dataset by M Yasser H (Kaggle)
 #### - 0 : left wrist
 #### - 1 : right wrist
 
+</br>
+
 ### 2. activity
 #### - 0 : walking
 #### - 1 : running
