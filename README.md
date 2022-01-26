@@ -15,6 +15,9 @@ Dataset by M Yasser H (Kaggle)
 #### - 0 : walking
 #### - 1 : running
 
+</br>
+
+</br>
 
 ## EDA (Exploratory Data Analysis)
 ### - 불균형 확인
