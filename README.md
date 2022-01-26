@@ -16,7 +16,7 @@ Dataset by M Yasser H (Kaggle)
 #### - 1 : running
 
 
-# EDA (Exploratory Data Analysis)
+## EDA (Exploratory Data Analysis)
 ### - 불균형 확인
 ### - 결측치 확인
 ### - 속성간 상관관계 확인
