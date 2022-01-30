@@ -24,3 +24,4 @@ Dataset by M Yasser H (Kaggle)
 ### - 결측치 확인
 ### - 속성간 상관관계 확인
 ### - 차원축소(PCA, TSNE)
+##### (진행중)
