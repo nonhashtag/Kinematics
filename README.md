@@ -27,3 +27,15 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 ### - 속성간 상관관계 확인
 ### - 차원축소(PCA, TSNE)
 ##### (차원축소 추가중)
+
+
+## Model
+### LGBM
+#### 학습데이터 분할 : train 7, test 3
+#### 교차검증 : Stratified, K-Fold
+#### 하이퍼 파라미터 학습 : GridSearch
+#### 성능 평가 : confusion_matrix
+- Accuracy
+- Recall
+- Precision
+- F1 score
