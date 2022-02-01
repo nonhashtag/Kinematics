@@ -23,7 +23,7 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 
 ## EDA (Exploratory Data Analysis)
 ### - 불균형 확인
-### - 결측치 확인
+### - 결측치 확인 
 ### - 속성간 상관관계 확인
 ### - 차원축소(PCA, TSNE)
 ##### (차원축소 추가중)
@@ -39,3 +39,5 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 - Recall
 - Precision
 - F1 score
+
+###### 현재 손목(wrist)까지만 모델 제작 완료
