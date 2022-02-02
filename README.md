@@ -25,8 +25,9 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 ### - 불균형 확인
 ### - 결측치 확인 
 ### - 속성간 상관관계 확인
-### - 차원축소(PCA, TSNE)
-##### (차원축소 추가중)
+### - 차원축소 : PCA, t-SNE (TSNE가 다소 오래걸림)
+- 2차원
+- 3차원
 
 
 ## Model
