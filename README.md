@@ -40,5 +40,3 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 - Recall
 - Precision
 - F1 score
-
-###### 현재 손목(wrist)까지만 모델 제작 완료
