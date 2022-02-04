@@ -40,3 +40,25 @@ https://www.kaggle.com/yasserh/kinematics-motion-data
 - Recall
 - Precision
 - F1 score
+
+## 결과
+### Wrist 예측
+Confusion Matrix </br>
+[[13674   204] </br>
+ [  211 12488]]
+
+Accuracy : 0.9843849945441547 </br>
+Recall : 0.9853004755728492 </br>
+precision : 0.9848037450486136 </br>
+F1 : 0.9850520476893707 </br>
+### Activity 예측
+Confusion Matrix </br>
+[[13149   161] </br>
+ [   93 13174]] </br>
+
+Accuracy : 0.9904428641306393 </br>
+Recall : 0.9879038317054846 </br>
+precision : 0.9929768917082011 </br>
+F1 : 0.9904338656221753 </br>
+
+### 테스트 결과 준수한 편이다
